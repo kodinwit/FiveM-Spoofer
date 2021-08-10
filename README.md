@@ -1,6 +1,8 @@
 # Best FiveM-Spoofer
 #*Credits to kodinwit#0429
 
+*+go to the workupload.com/.... link and DOWNLOAD the Spoofer.exe!
+
 #How to use 
 1.Open Spoofer.exe
 2.Type 1 and press ENTER
